@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\source\\repos\\ConsoleApp.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C905ECBF-D457-4254-99B5-5AB1A414FA54}|ConsoleApp.API.csproj|c:\\users\\jonat\\source\\repos\\consoleapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C905ECBF-D457-4254-99B5-5AB1A414FA54}|ConsoleApp.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C905ECBF-D457-4254-99B5-5AB1A414FA54}|ConsoleApp.API.csproj|c:\\users\\jonat\\source\\repos\\consoleapp.api\\consoleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C905ECBF-D457-4254-99B5-5AB1A414FA54}|ConsoleApp.API.csproj|solutionrelative:consoleapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp.API",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ConsoleApp.API\\ConsoleApp.API.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp.API.csproj",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ConsoleApp.API\\ConsoleApp.API.csproj*",
+              "RelativeToolTip": "ConsoleApp.API.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T14:34:09.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ConsoleApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ConsoleApp.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:25:02.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
